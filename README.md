@@ -12,4 +12,3 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 4. Merges the train and the test sets to create one data set
 5. updating column Identifier and limiting data to the identified mean and std columns
 6. Providing proper names to the variables
-

@@ -59,4 +59,3 @@ full_dataset <- full_dataset %>% group_by(Subject,Activity) %>% summarise_all(me
 
 fwrite(full_dataset,"output.txt")
 
-

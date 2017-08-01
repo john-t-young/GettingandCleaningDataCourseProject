@@ -147,4 +147,3 @@ gravityMean)"
 "angle(Z
 gravityMean)"
 
-
