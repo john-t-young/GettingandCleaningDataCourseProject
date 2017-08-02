@@ -50,4 +50,3 @@ setnames(full_dataset, matches$V1, matches$V2) ## dataset that has x,y,labels,ac
 full_dataset <- full_dataset %>% group_by(Subject,Activity) %>% summarise_all(mean)
 
 fwrite(full_dataset,"output.txt")
-
