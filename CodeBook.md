@@ -1,4 +1,4 @@
-#Code Book for - Datascience Getting and Cleaning data Assignment
+###Code Book for - Datascience Getting and Cleaning data Assignment
 
 ### Subject
 Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30
